@@ -1,12 +1,13 @@
-
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B58F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B++There;I'm+an+AI+Researcher+%26+Engineer;a+passionate+coder;make+apps+%26+AIML+solutions;Outside+work+I+play+video+games+;make+games+and+3d+art" alt="Info" />
+</p>
 
 <br>
 
 <img align="left" src="https://komarev.com/ghpvc/?username=bitbotcoder&color=blueviolet&style=flat-square" />
 
-<h3 align="center">A passionate AI Researcher and coder from India </h3>
-<h3 align="center">Outside work I am a gamer and unity game devloper </h3>
-<br>
+<br/>
+
 <div align="center"> 
   <a href="https://twitter.com/sumit2sk">
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=blue" />
@@ -16,7 +17,7 @@
   </a>
 </div>
 
-<br>
+<br/>
 
 <h2 align="center">⚒️ Languages & Frameworks ⛓️</h2>
 <br/>
@@ -39,13 +40,6 @@ Feel free to explore my repositories to see more of my work!
 
 <br>
 
-## Let's Collaborate!
-
-
-I'm always open to new opportunities and collaborations. If you have an exciting project or idea, feel free to reach out to me.
-
-
-<br>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/bitbotcoder)
 
