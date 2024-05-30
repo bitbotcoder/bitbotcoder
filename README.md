@@ -33,9 +33,13 @@ Feel free to explore my repositories to see more of my work!
 
 I'm always open to new opportunities and collaborations. If you have an exciting project or idea, feel free to reach out to me.
 
-![Profile Views](https://ghpvc/?username=bitbotcoder&color=blueviolet)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=bitbotcoder&color=blueviolet&style=flat-square)
+
 
 ![GitHub User's stars](https://img.shields.io/github/stars/bitbotcoder)
+
 
 <!--
 **bitbotcoder/bitbotcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
