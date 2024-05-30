@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=bitbotcoder&color=blueviolet&style=flat-square" />
 
 <h3 align="center">A passionate AI Researcher and coder from India </h3>
-<h3 align="center">Outside work I am gamer and unity game devloper </h3>
+<h3 align="center">Outside work I am a gamer and unity game devloper </h3>
 
 <div align="center"> 
   <a href="https://twitter.com/sumit2sk">
